@@ -7,4 +7,4 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|  CoinHunters | https://nodes.coinhunterstr.com/  | https://x.com/CoinHuntersTR  |  Turkiye | https://github.com/CoinHuntersTR  | coinhunterstr@gmail.com  | 0xmtnslk  | 8DD43A373C3017B963E1F9ACC5A2C16D2792231B440CADB4C9FB3BFD3654BBDF  |
+|  CoinHunters | https://nodes.coinhunterstr.com/  | https://x.com/CoinHuntersTR  |  Turkiye | https://github.com/CoinHuntersTR  | coinhunterstr@gmail.com  | 0xmtnslk  | 9C40937B0A2B5B4E4E85F69803FC2470D9D8020975E57FB2269D4E992E519CCE  |
